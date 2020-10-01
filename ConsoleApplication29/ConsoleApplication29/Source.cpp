@@ -13,6 +13,7 @@ int main(){
 	while ((znak = cin.get())!='\n')
 		cout.put((char)znak);
 	cout.put('\n');
+	cout<<"\n\n"<<"Test!!"<<"\n";
 
 
 
