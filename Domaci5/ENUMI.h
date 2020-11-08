@@ -1,0 +1,1 @@
+enum dani{PON=1,UTO,SRE,CET,PET,NEMA};
